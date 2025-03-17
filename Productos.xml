@@ -1,0 +1,26 @@
+﻿<Productos>
+	<Producto>
+		<Id>1</Id>
+		<Nombre>Producto A</Nombre>
+		<Precio>100.5</Precio>
+		<Stock>25</Stock>
+	</Producto>
+	<Producto>
+		<Id>2</Id>
+		<Nombre>Producto B</Nombre>
+		<Precio>45.0</Precio>
+		<Stock>10</Stock>
+	</Producto>
+	<Producto>
+		<Id>3</Id>
+		<Nombre>Producto C</Nombre>
+		<Precio>75.0</Precio>
+		<Stock>5</Stock>
+	</Producto>
+	<Producto>
+		<Id>4</Id>
+		<Nombre>Producto D</Nombre>
+		<Precio>20.0</Precio>
+		<Stock>8</Stock>
+	</Producto>
+</Productos>
