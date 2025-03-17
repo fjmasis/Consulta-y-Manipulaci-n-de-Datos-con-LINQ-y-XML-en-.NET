@@ -20,7 +20,7 @@ namespace LINQAPP
             }
 
             // Cargar el archivo XML
-            XDocument xmlDoc = XDocument.Load(rutaXML);
+            XDocument xmlDoc = XDocument.Load(rutaXML); 
 
             // Usar LINQ para filtrar productos con precio mayor a 50
             var productos = xmlDoc.Descendants("Producto")
